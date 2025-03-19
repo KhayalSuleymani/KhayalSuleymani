@@ -5,29 +5,10 @@
  
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
+- ❤️ I love writing Swift & Kotlin Architecture.
+- 
 - 💬 Ask me about anything [here](https://github.com/khayalsuleymani/khayalsuleymani/issues)
 
-
-#### Top Repositories
-
-<a href="https://github.com/KhayalSuleymani/XSStyle/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/KhayalSuleymani/KhayalSuleymani.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Khayal Suleymani | Twitter" width="21px" src="https://raw.githubusercontent.com/KhayalSuleymani/KhayalSuleymani/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Khayal Suleymani | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/KhayalSuleymani/KhayalSuleymani/master/assets/codesandbox.svg" />
-</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Khayal Suleymani) 
