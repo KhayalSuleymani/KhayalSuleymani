@@ -4,9 +4,7 @@
 - 💼 Chief Mobile Architect | Mobile CL @ [ABB](https://abb-bank.az/en/ferdi)
  
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
-
-- ❤️ I love writing Swift & Kotlin Architecture.
-- 
+  
 - 💬 Ask me about anything [here](https://github.com/khayalsuleymani/khayalsuleymani/issues)
 
 
