@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khayalsuleymani" alt="khayalsuleymani" /></a> </p>
 
-- 🔭 I’m currently working @ABB [ABB Mobile](https://apps.apple.com/az/app/abb-biz/id1593388351)
+- 🔭 I’m currently working on [ABB Mobile](https://apps.apple.com/az/app/abb-biz/id1593388351)
 
 - 🌱 I’m currently learning **AI**
 
